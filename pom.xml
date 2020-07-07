@@ -4,7 +4,7 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>org.example</groupId>
+    <groupId>org.advancedtopic</groupId>
     <artifactId>advancedtopic</artifactId>
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
@@ -15,6 +15,9 @@
         <module>chapter10</module>
         <module>chapter12</module>
         <module>chapter13</module>
+        <module>chapter24</module>
+        <module>chapter25</module>
+        <module>chapter28</module>
     </modules>
 
 
